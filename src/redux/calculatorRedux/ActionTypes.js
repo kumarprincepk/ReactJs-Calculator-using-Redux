@@ -1,0 +1,8 @@
+export const LOAD_ANSWER = 'LOAD_ANSWER'
+export const LOAD_BUTTONS = 'LOAD_BUTTONS'
+export const LOAD_CLEAR = 'LOAD_CLEAR'
+export const LOAD_BACKSPACE = 'LOAD_BACKSPACE'
+export const LOAD_SIN = 'LOAD_SIN'
+export const LOAD_COS = 'LOAD_COS'
+export const LOAD_TAN = 'LOAD_TAN'
+export const LOAD_LOG = 'LOAD_LOG'
